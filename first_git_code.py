@@ -5,7 +5,7 @@ y = int(y)
 
 
 def some_calculations(x, y):
-    return x + y
+    return x - y
 
 
 print(some_calculations(x, y))
